@@ -4,24 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fc305b9-4b9d-4abc-a153-77dda1ad08b6" name="Changes" comment="1st commit wwith basic changes" />
+    <list default="true" id="5fc305b9-4b9d-4abc-a153-77dda1ad08b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/loginapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/homepage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/signup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="Branch1" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 7
-}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectId" id="2WfnONuuyr7f6W2CucF8xTlHIgb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,7 +32,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "Branch1"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -43,19 +44,6 @@
       <option name="presentableId" value="Default" />
       <updated>1697132505199</updated>
     </task>
-    <task id="LOCAL-00001" summary="1st commit wwith basic changes">
-      <option name="closed" value="true" />
-      <created>1697191402122</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1697191402122</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="1st commit wwith basic changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="1st commit wwith basic changes" />
   </component>
 </project>
